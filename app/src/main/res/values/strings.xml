@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">QuickCrypt</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-5749066715551466/2351608785</string>
+    <!--ca-app-pub-5749066715551466/2351608785           ca-app-pub-3940256099942544/6300978111 -->
+
+    <string name="inputFieldTitle">
+        Input Text
+    </string>
+
+    <string name="inputFieldDetail">
+        Type anything you want in this field to be either encrypted or decrypted! (Note: Unfortunately, emojis and some special charctaers are not allowed :(
+    </string>
+
+    <string name="numberFieldTitle">
+        Number Field
+    </string>
+
+    <string name="numberFieldDetail">
+        Type given number (decryption) or any number between 1-100 (encryption)
+    </string>
+
+    <string name="encryptButtonTitle">
+        Encryption Button
+    </string>
+
+    <string name="encryptButtonDetail">
+        Click to encrypt your text
+    </string>
+
+    <string name="decryptButtonTitle">
+        Decryption Button
+    </string>
+
+    <string name="decryptButtonDetail">
+        Click to decrypt your text
+    </string>
+
+    <string name="resultFieldTitle">
+        Result Field
+    </string>
+
+    <string name="resultFieldDetail">
+        Displays your results! :)
+    </string>
+
+    <string name="copyTitle">
+        Copy Button
+    </string>
+
+    <string name="copyDetail">
+       Just click here to copy your results
+    </string>
+
+    <string name="shareButton">
+        Share Button
+    </string>
+
+    <string name="shareButtonDetail">
+       Be sure to share with your friends so they can decrypt your texts !
+    </string>
+</resources>
