@@ -62,7 +62,6 @@ public class MainActivity extends Activity {
         resultsField.setClickable(true);
         numberInputField = (EditText) findViewById(R.id.numberInputField);
 
-        //hi
         cont=true;
         tutorialChecker= new int[]{0,0,0,0,0,0,0};
 
