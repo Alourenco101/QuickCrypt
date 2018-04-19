@@ -59,6 +59,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "180397178754-5knj8e10td43pqlo42o25j8949g0sru5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialgamingfun.quickcrypt",
+            "certificate_hash": "a291c1d42f90d04633946a46f54db09bf6a5c26a"
+          }
+        },
+        {
           "client_id": "180397178754-n9nok8lpn27ivj546kft8qkn61m422ct.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
